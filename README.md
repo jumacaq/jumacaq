@@ -3,11 +3,14 @@
 
 I'm a passionate data analyst on a journey to explore and extract meaningful insights from data. As an entry-level data enthusiast, I'm eager to learn, grow, and contribute to the exciting world of data analytics.
 
+
+  <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/
+
 📊 **What I Do:**
-- 🔍 Data exploration and analysisC with Excel and Python
+- 🔍 Data exploration and analysis with Excel and Python
 - 📈 Data visualization with Power BI
-- 📉 Statistical modeling
-- 🧠 Machine learning
+- 📉 SQL databases
+
 
 🌱 **Currently Learning:**
 - 🐍 Python for data analysis
