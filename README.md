@@ -25,25 +25,12 @@ I'm a passionate data analyst on a journey to explore and extract meaningful ins
 - I'm excited to contribute to open-source data projects and collaborate with like-minded individuals.
 
 📫 **Connect with Me:**
-- 📧 Email: [data_analyst_jcq@outlook.com](mailto:YourEmail@email.com)
-- 💼 LinkedIn: [(https://www.linkedin.com/in/juan-campos-quintana-a72b95ab/)]
-- 🐦 Twitter: [(https://twitter.com/te_paso_el_dato)]
+- 📧 Email: (data_analyst_jcq@outlook.com)
+- 💼 LinkedIn: (https://www.linkedin.com/in/juan-campos-quintana-a72b95ab/)
+- 🐦 Twitter: (https://twitter.com/te_paso_el_dato)
 - Feel free to explore my projects and get in touch. Let's connect, learn, and grow together in the world of data!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
 
 
-<!--
-**jumacaq/jumacaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
