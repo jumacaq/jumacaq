@@ -15,10 +15,6 @@ I'm a passionate data analyst on a journey to explore and extract meaningful ins
 - 📊 Advanced data visualization techniques with Power BI
 - 💻 Building end-to-end data projects
 
-👨‍💻 **Projects:**
-- [Project 1](link-to-project-1): Brief description of project 1.
-- [Project 2](link-to-project-2): Brief description of project 2.
-- [Project 3](link-to-project-3): Brief description of project 3.
 
 🚀 **Goals:**
 - I'm aiming to become a skilled data analyst with expertise in a variety of data tools and techniques.
