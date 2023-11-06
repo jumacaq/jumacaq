@@ -1,4 +1,37 @@
 ### Hi there 👋
+## 👋 Hello, I'm [Juan Campos Quintana]
+
+I'm a passionate data analyst on a journey to explore and extract meaningful insights from data. As an entry-level data enthusiast, I'm eager to learn, grow, and contribute to the exciting world of data analytics.
+
+📊 **What I Do:**
+- 🔍 Data exploration and analysisC with Excel and Python
+- 📈 Data visualization with Power BI
+- 📉 Statistical modeling
+- 🧠 Machine learning
+
+🌱 **Currently Learning:**
+- 🐍 Python for data analysis
+- 📚 Expanding my knowledge of data science libraries (Pandas, Matplotlib, Seaborn)
+- 📊 Advanced data visualization techniques with Power BI
+- 💻 Building end-to-end data projects
+
+👨‍💻 **Projects:**
+- [Project 1](link-to-project-1): Brief description of project 1.
+- [Project 2](link-to-project-2): Brief description of project 2.
+- [Project 3](link-to-project-3): Brief description of project 3.
+
+🚀 **Goals:**
+- I'm aiming to become a skilled data analyst with expertise in a variety of data tools and techniques.
+- I'm excited to contribute to open-source data projects and collaborate with like-minded individuals.
+
+📫 **Connect with Me:**
+- 📧 Email: [data_analyst_jcq@outlook.com](mailto:YourEmail@email.com)
+- 💼 LinkedIn: [(https://www.linkedin.com/in/juan-campos-quintana-a72b95ab/)]
+- 🐦 Twitter: [(https://twitter.com/te_paso_el_dato)]
+- Feel free to explore my projects and get in touch. Let's connect, learn, and grow together in the world of data!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
 
 <!--
 **jumacaq/jumacaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
