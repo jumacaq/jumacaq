@@ -25,7 +25,7 @@ I'm a passionate data analyst on a journey to explore and extract meaningful ins
 
 📫 **Connect with Me:**
 - 📧 Email: data_analyst_jcq@outlook.com
-- 💼 LinkedIn: https://www.linkedin.com/in/juan-campos-q/
+- 💼 LinkedIn: https://www.linkedin.com/in/jumacaq/
 - 🐦 Twitter: https://twitter.com/te_paso_el_dato
 - Feel free to explore my projects and get in touch. Let's connect, learn, and grow together in the world of data!
 
