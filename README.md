@@ -29,7 +29,7 @@ I'm a passionate data analyst on a journey to explore and extract meaningful ins
 - 🐦 Twitter: https://twitter.com/te_paso_el_dato
 - Feel free to explore my projects and get in touch. Let's connect, learn, and grow together in the world of data!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumacaq&show_icons=true)
 
 
 
