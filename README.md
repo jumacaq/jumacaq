@@ -1,28 +1,27 @@
 ### Hi there 👋
 ## 👋 Hello, I'm Juan Campos Quintana
 
-I'm a passionate data analyst on a journey to explore and extract meaningful insights from data. As an entry-level data enthusiast, I'm eager to learn, grow, and contribute to the exciting world of data analytics.
+Data Analyst focused on transforming complex data into strategic decisions using Python, SQL. Specialized in Data Mining and Time Series Forecasting to drive actionable insights.
 
 
   <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 📊 **What I Do:**
-- 🔍 Data exploration and analysis with Excel and Python
-- 📈 Data visualization with Power BI
-- 📉 SQL databases
+- 🔍 **Advanced Analytics:** Transforming raw data into strategic growth opportunities using Python and SQL.
+- 📈 **Predictive Modeling:** Specialized in Time Series Forecasting and Data Mining to anticipate market trends.
 
 
-🌱 **Currently Learning:**
-- 🐍 Python for data analysis
-- 📚 Expanding my knowledge of data science libraries (Pandas, Matplotlib, Seaborn)
-- 📊 Advanced data visualization techniques with Power BI
-- 💻 Building end-to-end data projects
+
+🌱 **Expansion & Specialized Skills:**
+- 📚 Deepening my expertise in Advanced Predictive Analytics and automated Data Mining workflows
+- 📊 Optimizing end-to-end Machine Learning pipelines.
+- ☁️ Expanding cloud-based data solutions (GCP).
 
 
-🚀 **Goals:**
-- I'm aiming to become a skilled data analyst with expertise in a variety of data tools and techniques.
-- I'm excited to contribute to open-source data projects and collaborate with like-minded individuals.
-
+🚀 **Professional Milestones:**
+- 🤝 **Open Source Contributor:** Actively looking to contribute to data-driven open-source projects, focusing on data cleaning pipelines and predictive models.
+- 🏆 **Competitive Data Science:** Aiming to participate in Datathons and Hackathons specialized in Time Series Forecasting and Machine Learning to solve real-world challenges.
+- 💡 **Knowledge Sharing:** Committed to documenting my data journey and sharing insights with the data science community.
 ---
 
 ### 🧰 IDEs
@@ -35,7 +34,7 @@ I'm a passionate data analyst on a journey to explore and extract meaningful ins
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
 
 ### 📚 Libraries
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -57,10 +56,13 @@ I'm a passionate data analyst on a journey to explore and extract meaningful ins
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-📫 **Connect with Me:**
-- 📧 Email: data_analyst_jcq@outlook.com
-- 💼 LinkedIn: https://www.linkedin.com/in/jumacaq/
-- 🐦 Twitter: https://twitter.com/te_paso_el_dato
+
+### 📬 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jumacaq/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrimarcprr@gmail.com)
+
+
 - Feel free to explore my projects and get in touch. Let's connect, learn, and grow together in the world of data!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jumacaq&show_icons=true)
