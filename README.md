@@ -22,7 +22,7 @@ Data Scientist focused on solving real-world challenges through **Time Series Fo
 | :--- | :--- | :--- | :--- |
 | **⚡ Peru Smart Energy Forecasting** | Predictive model for national electricity demand estimation in Peru using multi-model benchmark evaluation. | `Python`, `LightGBM`, `Prophet`, `PyTorch` | [Repository](https://github.com/jumacaq/Peru_Smart_Energy_Forecasting) |
 | **📊 LATAM Market Insight** | Automated ETL pipeline scraping daily IT job postings across LATAM, integrated with relational storage. | `Python`, `Supabase`, `Streamlit`, `SQL` | [Repository](https://github.com/jumacaq/latam-market-insight) |
-| **🤖 MIA-govteech-agent** | AI-powered conversational assistant to guide citizens through municipal administrative procedures using RAG architecture. | `Python`, `LangChain`, `VectorDB`, `Huggingface` | [Repository](https://github.com/SilvanaJ90/MIA-govtech-agent)
+| **🤖 MIA-govtech-agent** | AI-powered conversational assistant to guide citizens through municipal administrative procedures using RAG architecture. | `Python`, `LangChain`, `VectorDB`, `HuggingFace` | [Repository](https://github.com/SilvanaJ90/MIA-govtech-agent) |
 ---
 
 ## 🛠️ Tech Stack & Tools
